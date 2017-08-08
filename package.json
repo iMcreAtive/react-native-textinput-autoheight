@@ -1,0 +1,16 @@
+{
+  "name": "react-native-textinput-autoheight",
+  "version": "1.0.2",
+  "description": "The package automatically controls the height of TextInput according to the amount of text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-textinput",
+    "autoheight",
+    "textinput"
+  ],
+  "author": "i.m. creAtive",
+  "license": "ISC"
+}
